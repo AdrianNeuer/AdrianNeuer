@@ -1,8 +1,9 @@
 - Hi, I’m @AdrianNeuer
-- I’m interested in football, basketball, tennis and a lot of PC games
-- I’m currently learning Atificial Intelligence in Nanjing University
-- I’m looking to collaborate on some small progamming works
-- My QQ is 2625903046
+- I’m interested in soccer, basketball, tennis, and a lot of PC games.
+- In 2023, I received my B.Sc. degree from the School of Artificial Intelligence of Nanjing University.
+- Currently, I am a second-year graduate student at the School of Artificial Intelligence at Nanjing University.
+- My research interests include Machine Learning and Data Mining, especially in abductive learning.
+- My QQ is 2625903046.
 
 <!---
 AdrianNeuer/AdrianNeuer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
